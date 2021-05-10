@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxBaseGui.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxButton.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxColorPicker.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxInputField.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxLabel.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxPanel.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxSlider.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxGui\src\ofxToggle.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMaxim\libs\fft.cpp">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiAtoms.cpp">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiBark.cpp">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiFFT.cpp">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiGrains.cpp">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiMFCC.cpp">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMaxim\libs\maximilian.cpp">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMaxim\libs\stb_vorbis.c">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\desktop\ofxRtMidiIn.cpp">
+			<Filter>addons\ofxMidi-master\src\desktop</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\desktop\ofxRtMidiOut.cpp">
+			<Filter>addons\ofxMidi-master\src\desktop</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\ofxBaseMidi.cpp">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\ofxMidi.cpp">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\ofxMidiClock.cpp">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\ofxMidiIn.cpp">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\ofxMidiMessage.cpp">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\ofxMidiOut.cpp">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\src\ofxMidiTimecode.cpp">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxMidi-master\libs\rtmidi\RtMidi.cpp">
+			<Filter>addons\ofxMidi-master\libs\rtmidi</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxGui">
+			<UniqueIdentifier>{4F2A59AF-5F4E-704B-D067-EC13}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxGui\src">
+			<UniqueIdentifier>{645E9533-4DCD-6179-1CDF-CB65}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMaxim">
+			<UniqueIdentifier>{BB11635E-CB83-2754-C30E-4383}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMaxim\src">
+			<UniqueIdentifier>{A5FE3CBF-BB0C-BCAC-6243-EC28}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMaxim\libs">
+			<UniqueIdentifier>{093ACE73-2DC8-CF52-36D5-72AA}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMidi-master">
+			<UniqueIdentifier>{1CBEB152-8D3C-87E8-87B5-8240}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMidi-master\src">
+			<UniqueIdentifier>{26A84FAD-5AF6-331D-656C-D2AA}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMidi-master\src\desktop">
+			<UniqueIdentifier>{5C5FC131-6728-BE90-4E03-E66A}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMidi-master\libs">
+			<UniqueIdentifier>{3BA09B84-A523-FAB2-4864-5FF8}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxMidi-master\libs\rtmidi">
+			<UniqueIdentifier>{6AE5306E-0703-1194-ECBE-F66A}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxBaseGui.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxButton.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxColorPicker.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxGui.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxInputField.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxLabel.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxPanel.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxSlider.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxGui\src\ofxToggle.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\src\ofxMaxim.h">
+			<Filter>addons\ofxMaxim\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\fft.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiAtoms.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiBark.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiFFT.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiGrains.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiMFCC.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\maximilian.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\sineTable.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMaxim\libs\stb_vorbis.h">
+			<Filter>addons\ofxMaxim\libs</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\desktop\ofxRtMidiIn.h">
+			<Filter>addons\ofxMidi-master\src\desktop</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\desktop\ofxRtMidiOut.h">
+			<Filter>addons\ofxMidi-master\src\desktop</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxBaseMidi.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxMidi.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxMidiClock.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxMidiConstants.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxMidiIn.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxMidiMessage.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxMidiOut.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxMidiTimecode.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\src\ofxMidiTypes.h">
+			<Filter>addons\ofxMidi-master\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxMidi-master\libs\rtmidi\RtMidi.h">
+			<Filter>addons\ofxMidi-master\libs\rtmidi</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
