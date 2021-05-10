@@ -1,0 +1,21 @@
+﻿  ofApp.cpp
+c:\users\felix\onedrive\desktop\unistuff\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\felix\onedrive\desktop\unistuff\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\felix\onedrive\desktop\unistuff\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\felix\onedrive\desktop\unistuff\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\felix\onedrive\desktop\unistuff\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\felix\onedrive\desktop\unistuff\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\felix\onedrive\desktop\unistuff\of_v0.10.0_vs2017_release\addons\ofxmaxim\libs\maximilian.h(384): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  BigProject.vcxproj -> C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\apps\myApps\BigProject\bin\BigProject_debug.exe
+  
+  	                   2	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\apps\myApps\BigProject\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\apps\myApps\BigProject\bin\fmodexL.dll
+  	  *EXTRA File 		 6402560	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\apps\myApps\BigProject\bin\FreeImage.dll
+  
+  	                   1	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\apps\myApps\BigProject\bin\fmodex.dll
+  	  *EXTRA File 		 1503232	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\apps\myApps\BigProject\bin\fmodex64.dll
+  	  *EXTRA File 		 1312768	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\apps\myApps\BigProject\bin\fmodexL.dll
+  	  *EXTRA File 		 1552384	C:\Users\felix\OneDrive\Desktop\UniStuff\of_v0.10.0_vs2017_release\apps\myApps\BigProject\bin\fmodexL64.dll
